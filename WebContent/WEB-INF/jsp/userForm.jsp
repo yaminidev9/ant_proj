@@ -6,9 +6,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Hello DEVOPS</title>
-<title>Good Day </title>
-
 </head>
 <body>
 
