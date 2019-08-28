@@ -9,7 +9,6 @@
 <title>Registration Page SATHYA TECH DEVOPS</title>
 <title>DEMO PAGE </title>
 <title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Registration Page SATHYA TECH DEVOPS</title>
 
 </head>
 <body>
