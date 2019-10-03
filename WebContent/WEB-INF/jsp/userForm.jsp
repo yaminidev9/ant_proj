@@ -54,7 +54,6 @@
 			<td colspan="2"><input type="submit"></td>
 		</tr>
 	</table>
-</form:form>
 
 <table width="20%" bgcolor="0099CC" align="center">
 
@@ -78,6 +77,7 @@
 </tr>
 
 </table>
+</form:form>
 
 </body>
 </html>
