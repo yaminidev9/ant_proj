@@ -1,0 +1,39 @@
+                                 Build Triggers
+                                  =============
+  1.Build Periodically:
+  ---------------------------
+        Git repo : https://github.com/sathyadevops/ant_proj.git
+        Build triggers:   --> Build periodically --->  * * * * * 
+
+  2.Poll SCM : 
+  -----------------
+        Git repo : https://github.com/sathyadevops/ant_proj.git
+        Build triggers:   --> Poll SCM  --->  * * * * * 
+
+Create an account for GitHub:
+--------------------------------------------
+   visit --> www.github.com  ---> create a new account 
+   https://github.com/sathyadevops/ant_proj --> select "Fork"
+ 
+Create a Git Hub token :
+------------------------------------
+   github  --> settings  --> devlpr settings  --> personal access token 
+    select "Generate new token" ---> then copy and secure the token 
+
+Modify Src code:
+-------------------------
+    # git clone https://github.com/sathyadevops/ant_proj.git 
+    # cd ant_proj/
+    # git config --global user.name sathyadevops
+    # git config --global user.email sathyadevops1@gmail.com
+
+    # cd WebContent/WEB-INF/jsp/
+    # vi userForm.jsp
+  ..<table width="50%" bgcolor="pink" align="center" border=3>...
+
+     # git add *                                 ---> code move to stage area
+     # git commit -m "new code"   --->  code move to local repo
+     # git push                                 ---> code move to global repo
+
+    user name: sathyadevops
+              pwd:  <token>
