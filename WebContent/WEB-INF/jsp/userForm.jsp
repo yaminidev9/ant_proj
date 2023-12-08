@@ -54,6 +54,7 @@
 			<td colspan="2"><input type="submit"></td>
 		</tr>
 	</table>
+ <h1> ----------------------------------- </h1>
 
 <table width="40%" bgcolor="pink" align="center" border=3>
 <tr>
